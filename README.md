@@ -2,18 +2,18 @@
 
 This is a path finding visualiser that uses A\*, Dijkstra's, Breadth First Search and Depth First Search algorithms to find the shortest path between two points on a grid. The visualiser also allows the user to create walls and move the start and end points to see how the algorithms work in real time.
 
+## Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [Screenshots](#screenshots)
+- [Installation ](#installation-)
+- [Usage ](#usage-)
+
 ## Screenshots
 
 | ![Screenshot 1](screenshots/1.png) | ![Screenshot 2](screenshots/2.png) |
 | ---------------------------------- | ---------------------------------- |
 | ![Screenshot 3](screenshots/3.png) | ![Screenshot 4](screenshots/4.png) |
-
-## Table of Contents
-
-- [Screenshots](#screenshots)
-- [Table of Contents](#table-of-contents)
-- [Installation ](#installation-)
-- [Usage ](#usage-)
 
 ## Installation <a name="installation"></a>
 
